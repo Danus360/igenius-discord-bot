@@ -1,1 +1,1 @@
-python igenius.py
+worker: python igenius.py

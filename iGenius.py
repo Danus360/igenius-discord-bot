@@ -94,5 +94,4 @@ async def on_message(message):
 
     
 
-token = open('Texts/token..txt', 'r')
-client.run(token.read())
+client.run(procces.env.Token)
